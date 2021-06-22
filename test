@@ -1,0 +1,13 @@
+program x{
+function f(){
+	procedure p(in t){}
+	
+	while(0+1<9+0);
+	if(a<b){k:=0} else {l:=9};
+	print(a);
+	do{a:=0} while(a<b)
+	;
+	
+	for i:=0 to 8 step 3
+	}
+}
